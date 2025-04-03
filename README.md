@@ -1,5 +1,7 @@
 # Exercicio 1
 
+![](https://i.imgur.com/WKw6nQg.png)
+
 Exercicio 1 da lista de exercícios para avaliação da disciplica de Introdução ao Desenvolvimento Web
 
 **Objetivo**: Criar um arquivo html com uma imagem, colocar um título em cima da imagem.
