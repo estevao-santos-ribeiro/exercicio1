@@ -1,6 +1,6 @@
 # Exercicio 1
 
-![](https://i.imgur.com/WKw6nQg.png)
+![](https://i.imgur.com/TvESp2s.png)
 
 Exercicio 1 da lista de exercícios para avaliação da disciplica de Introdução ao Desenvolvimento Web
 
